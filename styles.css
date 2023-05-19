@@ -20,6 +20,7 @@
   --crema1: #ebe5df;
   --crema2: #fefae0;
   --crema3: #cfbcab54;
+  --crema4: #413831a9;
   --mosta: #e9edc9;
   --bg: #22150b;
   --bg2: #5e422f;
@@ -61,7 +62,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 0px 15px 0px 15px;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .main {
@@ -87,12 +88,11 @@ header {
   gap: 3rem;
 }
 
-.menu {
-  display: none;
-  width: 60px;
-  height: 60px;
-  filter: invert(99%) sepia(99%) saturate(9234%) hue-rotate(746deg)
-    brightness(9999%) contrast(256%);
+.menu-img {
+  width: 30px;
+  height: 35px;
+  filter: invert(50%) sepia(40%) saturate(44%) hue-rotate(246deg)
+    brightness(200%) contrast(256%);
 }
 
 .check {

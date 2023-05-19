@@ -53,7 +53,6 @@
     padding: 4em 2em;
     gap: 3em 3rem;
     margin: 2rem 2rem;
-    margin-top: 2rem;
     width: 1000px;
     min-width: 950px;
     max-width: 1050px;
@@ -88,7 +87,7 @@
     padding: 4em 2em;
     gap: 3em 5rem;
     margin: 2rem 2rem;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     width: 924px;
     min-width: 800px;
     max-width: 980px;
@@ -208,9 +207,6 @@
   /* SECCION PORTADA */
 
   .portada {
-    gap: 1rem;
-    padding: 1rem 1rem;
-    margin: 2rem 2rem;
     width: 620px;
     min-width: 570px;
     max-width: 630px;
@@ -252,7 +248,6 @@
   .productos {
     padding: 1em 1em;
     gap: 1em 0;
-    margin: 1rem 0;
     width: 620px;
     min-width: 570px;
     max-width: 630px;
@@ -367,7 +362,6 @@
 
   .productos {
     padding: 1em 1em;
-    gap: 1em 0;
     margin: 1rem 1.5rem;
     width: 450px;
     min-width: 400px;
@@ -488,7 +482,6 @@
     align-content: center;
     flex-wrap: wrap;
     padding: 1em 0;
-    margin: 1rem 0;
     width: 330px;
     min-width: 300px;
     max-width: 400px;
